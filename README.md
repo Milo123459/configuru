@@ -1,0 +1,2 @@
+# configuru
+The `.configuru` directory
